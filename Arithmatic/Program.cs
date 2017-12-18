@@ -16,5 +16,10 @@ namespace Arithmatic
         {
             return a + b;
         }
+
+        static int SubtractTwoNums(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
