@@ -21,5 +21,10 @@ namespace Arithmatic
         {
             return a - b;
         }
+
+        static void Method2()
+        {
+            Console.WriteLine("Method 2");
+        }
     }
 }
