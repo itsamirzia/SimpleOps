@@ -39,5 +39,10 @@ namespace Arithmatic
         {
             Console.WriteLine("Method 3");
         }
+
+        static void CalculateArea()
+        {
+            Console.WriteLine("Method Calculate area added");
+        }
     }
 }
