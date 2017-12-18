@@ -16,5 +16,10 @@ namespace Arithmatic
         {
             return a + b;
         }
+
+        static void Method1()
+        {
+            Console.WriteLine("Method 1");
+        }
     }
 }
