@@ -11,5 +11,10 @@ namespace Arithmatic
         static void Main(string[] args)
         {
         }
+
+        static int AddTwoNums(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
