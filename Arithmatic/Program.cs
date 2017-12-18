@@ -33,5 +33,11 @@ namespace Arithmatic
         {
             Console.WriteLine("Method 2");
         }
+
+
+        static void Method3()
+        {
+            Console.WriteLine("Method 3");
+        }
     }
 }
